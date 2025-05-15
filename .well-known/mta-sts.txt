@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: smtp-in0.prod0.webspace.bz
 mx: smtp-in1.prod0.webspace.bz
 max_age: 604800
